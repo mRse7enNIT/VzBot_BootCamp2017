@@ -1,4 +1,4 @@
-java -cp lib/Ab.jar Main bot=test action=chat trace=false
+java -cp lib/Ab.jar Main bot=test action=chat trace=true morph=false
 
 
 
