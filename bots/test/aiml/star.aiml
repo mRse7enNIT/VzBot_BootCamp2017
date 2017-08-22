@@ -14,5 +14,11 @@
          How <star index = "1"/> can not be a <star index = "2"/>?
       </template>
    </category>
+    <category>
+      <pattern>CAN YOU *</pattern>
+      <template>
+         Will you pay me for <star/>?
+      </template>
+   </category>
    
 </aiml>
